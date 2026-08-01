@@ -63,3 +63,7 @@ Typical prompts:
 - "Write a Nexus description for this mod from the README."
 - "Shorten the mod page, it reads like a changelog."
 - "Check my mod pages against the description rules."
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). Use it, fork it, adapt the rules to your own house style.
