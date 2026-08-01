@@ -64,6 +64,15 @@ Typical prompts:
 - "Shorten the mod page, it reads like a changelog."
 - "Check my mod pages against the description rules."
 
+## Related
+
+Two companion skills, both specific to 7 Days to Die:
+
+- [Skill-7D2D-Development](https://github.com/HannaPanda/Skill-7D2D-Development) writes and
+  debugs the mods.
+- [Skill-7D2D-Testbench](https://github.com/HannaPanda/Skill-7D2D-Testbench) tests them against
+  several game versions.
+
 ## Licence
 
 MIT, see [LICENSE](LICENSE). Use it, fork it, adapt the rules to your own house style.
